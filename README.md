@@ -29,9 +29,6 @@
 - Choose "list" to view saved passwords. You'll need to provide the password used for encryption.
 - Choose "quit" to exit the program.
 
-## ASCII Art
-
-The "passM" logo in ASCII art can be found in the `passM_logo.txt` file.
 
 ## Screenshots
 
