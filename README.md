@@ -2,7 +2,6 @@
 
 # Password Manager "passM"
 
-![passM Logo](passM_logo.png)
 
 ## Overview
 
@@ -36,4 +35,4 @@ The "passM" logo in ASCII art can be found in the `passM_logo.txt` file.
 
 ## Screenshots
 
-
+![passM ss](passM.png)
